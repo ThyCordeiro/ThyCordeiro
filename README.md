@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ThyCordeiro/ThyCordeiro/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/ThyCordeiro/ThyCordeiro/blob/output/github-contribution-grid-snake2.svg)
 
 ###
